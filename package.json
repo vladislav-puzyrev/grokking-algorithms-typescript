@@ -3,14 +3,6 @@
   "description": "Моя реализация примеров из книги на typescript",
   "author": "Vladislav Puzyrev <vladislav.puzzyrev@gmail.com>",
   "license": "ISC",
-  "homepage": "https://github.com/vladislav-puzyrev/grokking-algorithms-typescript#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vladislav-puzyrev/grokking-algorithms-typescript.git"
-  },
-  "bugs": {
-    "url": "https://github.com/vladislav-puzyrev/grokking-algorithms-typescript/issues"
-  },
   "devDependencies": {
     "@types/node": "^14.14.3",
     "ts-node": "^9.0.0",
