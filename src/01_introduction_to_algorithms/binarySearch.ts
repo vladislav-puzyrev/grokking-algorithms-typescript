@@ -3,7 +3,7 @@ function binarySearch<T extends string | number>(array: T[], item: T) {
   let end = array.length - 1;
 
   while (start <= end) {
-    const mid = Math.floor(end + start / 2);
+    const mid = Math.floor((start + end) / 2);
     const guess = array[mid];
 
     if (guess === item) {
